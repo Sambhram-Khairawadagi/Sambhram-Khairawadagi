@@ -12,7 +12,6 @@
 <br><br>
 
 ---
-
 ## 👨‍💻 About Me
 
 🚀 **A passionate Entry Level Java Full Stack Developer** with a keen interest in building scalable applications and solving complex problems.
